@@ -7,24 +7,24 @@ I try to host all (non-sensitive) past and current projects here. While the sens
 
 If anything grabs your attention and/or you would like to use for it your own purposes, then please feel more than free to grab it from my GitHub Profile; link is below.
 
-### GitHub Profile
+## GitHub Profile
 https://github.com/Tanner-Woods
 
-### LinkedIn Profile
+## LinkedIn Profile
 https://www.linkedin.com/in/tannermwoods/
 
-### Education
+## Education
 **University of California, Los Angeles**: *Master of Quantitative Economics* (Expected June 2023)
 
 **University of California, Santa Barbara**: *Bachelor of Arts in Economics* (June 2021)
 
-### Employment History
+## Employment History
 - **California State Legislature, 77th Assembly Office** 
     - Length of employment: Eight months (Summer 2020/2021)
 - **Companion Care Veterinary Hospital**
     - Length of employment: Four years (2017-2020)
 
-### Short Overview of Current Skillset
+## Short Overview of Current Skillset
 **Technical**
     *Machine learning*: Regularization and variable selection (Lasso, Ridge, Elastic Net), regression trees and random forests, propagation methods, and stochastic gradient descent.
 		

@@ -4,7 +4,8 @@ plugins:
 theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Tanner Mikolai Woods — Project Portfolio
+title: Tanner Woods
+description: Project Portfolio
 url: https://tanner-woods.github.io/
 color-scheme: dark
 

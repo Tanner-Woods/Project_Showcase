@@ -33,9 +33,3 @@ For a more technical and exhaustive insight, I encourage anyone curious to look 
 - *Proficient*: Python (NumPy, Pandas, Statsmodels, Sklearn, etc.), MySQL, Tableau
 
 - *Familiar*: AWS, R, Git/Github, STATA, PowerBI
-
-## GitHub Profile
-[https://github.com/Tanner-Woods](https://github.com/Tanner-Woods)
-
-## LinkedIn Profile
-[https://www.linkedin.com/in/tannermwoods/](https://www.linkedin.com/in/tannermwoods/)

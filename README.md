@@ -8,10 +8,10 @@ I try to host all (non-sensitive) past and current projects here. While the sens
 If anything grabs your attention and/or you would like to use for it your own purposes, then please feel more than free to grab it from my GitHub profile; link is below.
 
 ## GitHub Profile
-["https://github.com/Tanner-Woods"](https://github.com/Tanner-Woods)
+[https://github.com/Tanner-Woods](https://github.com/Tanner-Woods)
 
 ## LinkedIn Profile
-["https://www.linkedin.com/in/tannermwoods/"](https://www.linkedin.com/in/tannermwoods/)
+[https://www.linkedin.com/in/tannermwoods/](https://www.linkedin.com/in/tannermwoods/)
 
 ## Education
 **University of California, Los Angeles**: *Master of Quantitative Economics* (Expected June 2023)
@@ -25,6 +25,8 @@ If anything grabs your attention and/or you would like to use for it your own pu
     - Length of employment: Four years (2017-2020)
 
 ## Short Overview of Current Skillset
+
+For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you.
 
 **Technical:**
 - *Machine learning*: Regularization and variable selection (Lasso, Ridge, Elastic Net), regression trees and random forests, propagation methods, and stochastic gradient descent.

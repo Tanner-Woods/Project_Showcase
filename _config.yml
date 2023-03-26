@@ -1,4 +1,23 @@
-theme: jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
 title: Tanner Mikolai Woods — Project Portfolio
-#google_analytics: UA-42646483-1
 url: https://tanner-woods.github.io/
+color-scheme: dark
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/Tanner-Woods
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/tannermwoods/
+  - name: Projects Temp 1
+    #icon:
+    #link:
+  - name: Projects Temp 2
+    #icon:
+    #link:

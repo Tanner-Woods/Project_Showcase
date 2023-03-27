@@ -16,9 +16,57 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/tannermwoods/
-  - name: Projects Temp 1
+  - name: Statistical Learning and Linear Regression
     #icon:
     #link:
-  - name: Projects Temp 2
+  - name: Classification
+    #icon:
+    #link:
+  - name: Resampling Methods
+    #icon:
+    #link:
+  - name: Kernel Smoothing Methods
+    #icon:
+    #link:
+  - name: Model Selection, Basis Expansion, and Regularization
+    #icon:
+    #link:
+  - name: Kernel Smoothing Methods
+    #icon:
+    #link:
+  - name: Model Selection and Regularization
+    #icon:
+    #link:
+  - name: Nonlinear Models
+    #icon:
+    #link:
+  - name: Tree Models and Ensemble Learning
+    #icon:
+    #link:
+  - name: Support Vector Machines
+    #icon:
+    #link:
+  - name: Deep Learning
+    #icon:
+    #link:
+  - name: Prototype Methods and the Nearest-Neighbor Family
+    #icon:
+    #link:
+  - name: Unsupervised Learning
+    #icon:
+    #link:
+  - name: Multiple Testing
+    #icon:
+    #link:
+  - name: Support Vector Machines and Flexible Discriminants
+    #icon:
+    #link:
+  - name: Undirected Graphical Models
+    #icon:
+    #link:
+  - name: (Inhumanely) High-Dimensional Scenario Resolutions
+    #icon:
+    #link:
+  - name: Support Vector Machines and Flexible Discriminants
     #icon:
     #link:

@@ -16,6 +16,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/tannermwoods/
+  - name: The Fundamentals of Linear Algebra
+    #icon:
+    #link:
   - name: Statistical Learning and  Linear Regression
     #icon:
     #link:

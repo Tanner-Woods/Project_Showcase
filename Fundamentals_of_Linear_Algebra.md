@@ -1,1 +1,0 @@
-Sources: Sheldon Axler, *Linear Algebra Done Right (3rd Edition)* (2015) ISBN 978-3-319-11079-0

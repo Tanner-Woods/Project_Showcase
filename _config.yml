@@ -31,12 +31,6 @@ platforms:
   - name: Model Selection, Basis Expansion, and Regularization
     #icon:
     #link:
-  - name: Kernel Smoothing Methods
-    #icon:
-    #link:
-  - name: Model Selection and Regularization
-    #icon:
-    #link:
   - name: Nonlinear Models
     #icon:
     #link:

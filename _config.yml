@@ -16,7 +16,7 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/tannermwoods/
-  - name: Statistical Learning and Linear Regression
+  - name: Statistical Learning and  Linear Regression
     #icon:
     #link:
   - name: Classification
@@ -28,13 +28,13 @@ platforms:
   - name: Kernel Smoothing Methods
     #icon:
     #link:
-  - name: Model Selection, Basis Expansion, and Regularization
+  - name: Model Selection, Basis Expansion,  and Regularization
     #icon:
     #link:
   - name: Nonlinear Models
     #icon:
     #link:
-  - name: Tree Models and Ensemble Learning
+  - name: Tree Models and  Ensemble Learning
     #icon:
     #link:
   - name: Support Vector Machines
@@ -43,7 +43,7 @@ platforms:
   - name: Deep Learning
     #icon:
     #link:
-  - name: Prototype Methods and the Nearest-Neighbor Family
+  - name: Prototype Methods and the  Nearest-Neighbor Family
     #icon:
     #link:
   - name: Unsupervised Learning
@@ -52,15 +52,9 @@ platforms:
   - name: Multiple Testing
     #icon:
     #link:
-  - name: Support Vector Machines and Flexible Discriminants
+  - name: Support Vector Machines and  Flexible Discriminants
     #icon:
     #link:
   - name: Undirected Graphical Models
-    #icon:
-    #link:
-  - name: (Inhumanely) High-Dimensional Scenario Resolutions
-    #icon:
-    #link:
-  - name: Support Vector Machines and Flexible Discriminants
     #icon:
     #link:

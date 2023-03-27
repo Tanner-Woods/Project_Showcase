@@ -1,0 +1,1 @@
+Sources: Larry Wasserman, *All of Statistics: A Concise Course in Statistical Infernce* (2010) ISBN 978-1-4419-2322-6

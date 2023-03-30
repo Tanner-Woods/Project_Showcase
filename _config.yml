@@ -6,8 +6,12 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Tanner Woods
 description: Project Portfolio
+email: tannerwoods@g.ucla.edu
 url: https://tanner-woods.github.io/
 color-scheme: dark
+logo: /assets/img/favicon.io
+favicon: true
+
 
 platforms:
   - name: GitHub
@@ -18,7 +22,7 @@ platforms:
     link: https://www.linkedin.com/in/tannermwoods/
   - name: Learning Resources for Statistical Analysis
     #icon:
-    #link:
+    link: C:\Users\tanne\Github_Site_Source\Tanner-Woods.github.io\Learning Resources
   - name: Personal Project Archive
     #icon:
     #link:

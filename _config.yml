@@ -5,11 +5,11 @@ theme: jekyll-theme-minimal
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Tanner Woods
-description: Project Portfolio
+#description: Project Portfolio
 email: tannerwoods@g.ucla.edu
 url: https://tanner-woods.github.io/
 color-scheme: dark
-logo: /assets/img/favicon.io
+logo: /assets/img/favicon.png
 favicon: true
 
 

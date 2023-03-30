@@ -24,7 +24,7 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 
 | Topic | Link |
 | ----------- | ----------- |
-| Statistical Learning and Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.md) |
+| Statistical Learning and Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.html) |
 | Classification | Text | 
 | Resampling Methods | Text | 
 | Kernel Smoothing Methods | Text | 

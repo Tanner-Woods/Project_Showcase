@@ -7,24 +7,60 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 
 [^1]: I wanted to be a history teacher when I first started my undergrad at UC Santa Cruz, so I like to think of this as my way of apologizing to my old high school teachers. Sorry Mr. Swanson and Mrs. Ayres, but statistics ended up being more interesting to me as a career; I still cannot thank either of you enough for the safe and welcoming environment you provided to me so many years ago in your APUSH classes.
 
-## Table of Contents
+## Fundamentals of Statistical Theory [^2]
 
-### Fundamentals of Linear Algebra [^2]
+[^2]: Source: Larry Wasserman, *All of Statistics: A Concise Course in Statistical Infernce* (2010) ISBN 978-1-4419-2322-6
 
-[^2]: Source: Sheldon Axler, *Linear Algebra Done Right (3rd Edition)* (2015) ISBN 978-3-319-11079-0
+### Probability
+| Topic | Link |
+| Introduction to Probability | [Link]() |
+| Random Variables | [Link]() | 
+| Expectation | [Link]() |
+| Inequalities | [Link]() |
+| Convergences of RVs | [Link]() |
+
+### Statistical Inference
+| Topic | Link |
+| Models and Inference | [Link]() |
+| Estimating CDF and Statistical Functionals | [Link]() |
+| Bootstrapping | [Link]() |
+| Parametric Inference | [Link]() |
+| Bootstrapping | [Link]() |
+| Hypothesis Testing and p-Values | [Link]() |
+| Bayesian Inference | [Link]() |
+| Statistical Decision Theory | [Link]() |
+
+### Statistical Models and Methods
+| Topic | Link |
+| Linear and Logistic Regression | [Link]() |
+| Mulivariate Models | [Link]() |
+| Inference About Independence | [Link]() |
+| Causal Inference | [Link]() |
+| Directed Graphs and Conditional Independence | [Link]() |
+| Undirected Graphs | [Link]() |
+| Log-Linear Models | [Link]() |
+| Nonparametric Curve Estimation | [Link]() |
+| Smoothing Using Orthogonal Functions | [Link]() |
+| Probability in Stochastic Processes | [Link]() |
+| Simulation Methods | [Link]() |
+
+## Fundamentals of Linear Algebra [^3]
+
+[^3]: Source: Sheldon Axler, *Linear Algebra Done Right (3rd Edition)* (2015) ISBN 978-3-319-11079-0
 
 | Topic | Link |
 | ----------- | ----------- |
 | Statistical Learning and Linear Regression | XXX |
 | Paragraph | Text | 
 
-### Fundamentals of Statistical Learning [^3]
 
-[^3]: Source: Larry Wasserman, *All of Statistics: A Concise Course in Statistical Infernce* (2010) ISBN 978-1-4419-2322-6
+## Fundamentals of Machine Learning [^4]
+
+[^4]: Source: k
 
 | Topic | Link |
 | ----------- | ----------- |
-| Statistical Learning and Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.html) |
+| Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.html) |
 | Classification | Text | 
 | Resampling Methods | Text | 
 | Kernel Smoothing Methods | Text | 

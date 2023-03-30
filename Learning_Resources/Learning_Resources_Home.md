@@ -9,17 +9,31 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 
 ## Table of Contents
 
-### Fundamentals of Linear Algebra
+### Fundamentals of Linear Algebra [^2]
 
-| Syntax | Description |
+[^2]: Source: Sheldon Axler, *Linear Algebra Done Right (3rd Edition)* (2015) ISBN 978-3-319-11079-0
+
+| Topic | Link |
 | ----------- | ----------- |
-| Header | Title |
+| Statistical Learning and Linear Regression | XXX |
 | Paragraph | Text | 
 
-### Fundamentals of Statistical Learning
+### Fundamentals of Statistical Learning [^3]
 
-| Syntax | Description |
+[^3]: Source: Larry Wasserman, *All of Statistics: A Concise Course in Statistical Infernce* (2010) ISBN 978-1-4419-2322-6
+
+| Topic | Link |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
-
+| Statistical Learning and Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.md) |
+| Classification | Text | 
+| Resampling Methods | Text | 
+| Kernel Smoothing Methods | Text | 
+| Model Selection, Basis Expansion, and Regularization | Text | 
+| Nonlinear Models | Text | 
+| Support Vector Machines I | Text |
+| Deep Learning | Text |
+| Prototype Methods and the Nearest-Neighbor Family | Text |
+| Unsupervised Learning | Text |
+| Multiple Testing | Text |
+| Support Vector Machines II and Flexible Discriminants | Text |
+| Undirected Graphical Models | Text |

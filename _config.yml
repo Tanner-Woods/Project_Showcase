@@ -13,15 +13,15 @@ logo: /assets/img/Me.png
 favicon: true
 
 platforms:
-  - name: Home
-    #icon:
-    link: https://tanner-woods.github.io/
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/Tanner-Woods
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/tannermwoods/
+  - name: Home
+    #icon:
+    link: https://tanner-woods.github.io/
   - name: Learning Resources for Statistical Theory, Linear Algebra, and Machine Learning
     #icon:
     link: https://tanner-woods.github.io/Learning_Resources/Learning_Resources_Home.html

@@ -12,6 +12,7 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 [^2]: Source: Larry Wasserman, *All of Statistics: A Concise Course in Statistical Infernce* (2010) ISBN 978-1-4419-2322-6
 
 ### Probability
+
 | Topic | Link |
 | Introduction to Probability | [Link]() |
 | Random Variables | [Link]() | 
@@ -20,6 +21,7 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 | Convergences of RVs | [Link]() |
 
 ### Statistical Inference
+
 | Topic | Link |
 | Models and Inference | [Link]() |
 | Estimating CDF and Statistical Functionals | [Link]() |
@@ -31,6 +33,7 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 | Statistical Decision Theory | [Link]() |
 
 ### Statistical Models and Methods
+
 | Topic | Link |
 | Linear and Logistic Regression | [Link]() |
 | Mulivariate Models | [Link]() |
@@ -50,26 +53,33 @@ If you can recite PEMDAS, then I believe anyone can do statistical analysis. It'
 
 | Topic | Link |
 | ----------- | ----------- |
-| Statistical Learning and Linear Regression | XXX |
-| Paragraph | Text | 
-
+| Vector Spaces | [Link]() |
+| Finite-Dimensional Vector Spaces | [Link]() | 
+| Linear Maps | [Link]() |
+| Polynomials | [Link]() |
+| Eigenvalues/vectors and Invariant Subspaces | [Link]() |
+| Inner Product Spaces | [Link]() |
+| Operators on Inner Product Spaces | [Link]() |
+| Operators on Complex Vector Spaces | [Link]() |
+| Operators on Real Vector Spaces | [Link]() |
+| Trace and Determinant | [Link]() |
 
 ## Fundamentals of Machine Learning [^4]
 
-[^4]: Source: k
+[^4]: Source: 
 
 | Topic | Link |
 | ----------- | ----------- |
 | Linear Regression | [Link](https://tanner-woods.github.io/Learning_Resources/Statistical_Learning/Statistical_Learning_and_Linear_Regression.html) |
-| Classification | Text | 
-| Resampling Methods | Text | 
-| Kernel Smoothing Methods | Text | 
-| Model Selection, Basis Expansion, and Regularization | Text | 
-| Nonlinear Models | Text | 
-| Support Vector Machines I | Text |
-| Deep Learning | Text |
-| Prototype Methods and the Nearest-Neighbor Family | Text |
-| Unsupervised Learning | Text |
-| Multiple Testing | Text |
-| Support Vector Machines II and Flexible Discriminants | Text |
-| Undirected Graphical Models | Text |
+| Classification | [Link]() | 
+| Resampling Methods | [Link]() | 
+| Kernel Smoothing Methods | [Link]() | 
+| Model Selection, Basis Expansion, and Regularization | [Link]() | 
+| Nonlinear Models | [Link]() | 
+| Support Vector Machines I | [Link]() |
+| Deep Learning | [Link]() |
+| Prototype Methods and the Nearest-Neighbor Family | [Link]() |
+| Unsupervised Learning | [Link]() |
+| Multiple Testing | [Link]() |
+| Support Vector Machines II and Flexible Discriminants | [Link]() |
+| Undirected Graphical Models | [Link]() |

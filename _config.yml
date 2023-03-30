@@ -13,6 +13,9 @@ logo: /assets/img/Me.png
 favicon: true
 
 platforms:
+  - name: Home
+    #icon:
+    link: https://tanner-woods.github.io/
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/Tanner-Woods

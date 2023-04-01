@@ -8,7 +8,7 @@ I try to host all (non-sensitive) past and current projects here. While the sens
 If anything grabs your attention and/or you would like to use for it your own purposes, then please feel more than free to grab it from my GitHub profile; link is left.
 
 
-Also to the left is a personal project of mine: a long list of statistical analytic resources to help those that also struggle with the conceptual side of mathematical theory. I've also collected links for the textbooks I've used throughout my Master's program at UCLA for download; I heavily indebted myself to the UC system to find out about them, but that doesn't mean you have to, too.
+Also to the left is a personal project of mine: a long list of statistical analytic resources to help those that also struggle with the conceptual side of mathematical theory. I've also collected links for the textbooks I've used throughout my Master's program at UCLA for download; I heavily indebted myself to the UC system to find out about them, but that doesn't mean you have to, too. There is also a small collection of study guides I've made for a few of my classes.
 
 
 

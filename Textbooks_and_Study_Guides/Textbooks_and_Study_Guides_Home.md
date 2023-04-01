@@ -2,7 +2,7 @@
 
 ## Textbooks
 
-1. [An Introduction to Statistical Learning with Applications in R Second Edition]()
+1. [An Introduction to Statistical Learning with Applications in R Second Edition](https://tanner-woods.github.io/\Textbooks_and_Study_Guides/An Introduction to Statistical Learning with Applications in R Second Edition.pdf)
 
 2. [Machine Learning: A Probalistic Perspective]()
 

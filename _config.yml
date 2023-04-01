@@ -16,7 +16,7 @@ platforms:
   - name: Home
     #icon:
     link: https://tanner-woods.github.io/
-  - name: Learning Resources for Statistical &nbsp; Theory, Linear Algebra, and Machine Learning
+  - name: Learning Resources for Statistical Theory, Linear Algebra, and Machine Learning
     #icon:
     link: https://tanner-woods.github.io/Learning_Resources/Learning_Resources_Home.html
   - name: Personal Project Archive

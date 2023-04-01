@@ -13,12 +13,6 @@ logo: /assets/img/Me.png
 favicon: true
 
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/Tanner-Woods
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/tannermwoods/
   - name: Home
     #icon:
     link: https://tanner-woods.github.io/
@@ -28,3 +22,12 @@ platforms:
   - name: Personal Project Archive
     #icon:
     link: https://tanner-woods.github.io/Personal_Projects/Personal_Projects_Home.html
+  - name: 
+    #icon:
+    #link:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/Tanner-Woods
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/tannermwoods/

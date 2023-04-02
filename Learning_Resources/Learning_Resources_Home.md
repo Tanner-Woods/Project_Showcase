@@ -1,5 +1,7 @@
 # Learning Resources for Statistical Analysis (WIP)
 
+*This is currently on hold while I finish setting up my project archive*
+
 
 While proper data analysis and model construction **can** get obscenely complicated, I believe that is more a function of many small building blocks placed one upon another upon another. The components are simple, but the end product seems daunting. As someone who always struggled with examinations and technical interviews, I only ever saw the latter rather than the former. From a combination of my personal notes and text resources, I hope to compile an easily digestable resource for people like me: the ones who love what statistics can do for them and others, but are intimidated by the hurdle that is **lots of math**.
 

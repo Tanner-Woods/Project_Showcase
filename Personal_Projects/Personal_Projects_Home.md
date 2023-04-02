@@ -49,7 +49,4 @@
 
 ## Miscellaneous
 
-Assorted collection of homework files that are not extensive enough to be converted into projects. Archive can be found [here](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Files).
-
-
-
+Assorted collection of homework files that are not extensive enough to be converted into projects. Archive can be found [here](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Home).

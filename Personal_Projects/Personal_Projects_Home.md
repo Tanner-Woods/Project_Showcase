@@ -47,12 +47,12 @@
 
 ## Machine Learning
 
-| Forecasting by Traditional and ML Methods: Implementing Competing Supervised Learning Models to Forecast the Logarithmic Fraction of All Outstanding Trade Shares | [Link](https://tanner-woods.github.io/Personal_Projects/ML/Forecasting by Traditional and ML Methods.pdf) |
+| Forecasting Outstanding Shares by Traditional and ML Methods: Implementing Competing Supervised Learning Models to Forecast the Logarithmic Fraction of All Outstanding Trade Shares | [Link](https://tanner-woods.github.io/Personal_Projects/ML/Forecasting Outstanding Shares by Traditional and ML Methods.pdf) |
 
 | **Tags**: — |
 | **Description**: |
 | **Conclusion**: |
-| **Code**: [Non-LSTM](https://tanner-woods.github.io/Personal_Projects/ML/ML Forecast Log Shares, Non LSTM.html) and [LSTM Link](https://tanner-woods.github.io/Personal_Projects/ML/ML Forecast Log Shares, LSTM.html) |
+| **Code**: [Non-LSTM Link](https://tanner-woods.github.io/Personal_Projects/ML/ML Forecast Log Shares, Non LSTM.html) and [LSTM Link](https://tanner-woods.github.io/Personal_Projects/ML/ML Forecast Log Shares, LSTM.html) |
 
 ## Miscellaneous
 

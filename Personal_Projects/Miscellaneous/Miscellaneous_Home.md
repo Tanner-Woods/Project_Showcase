@@ -8,7 +8,7 @@ While these are also free for referencing, I highly encourage a healthy level of
 - [ECON 430 HW2](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Files/ECON 430 HW2.html)
 - [ECON 430 HW3](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Files/ECON 430 HW3.html)
 
-## Applied Data Management for Economists I and II
+## Applied Data Management for Economists I/II
 
 - [ECON 441A HW1 I](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Files/ECON 441A HW1 A.html)
 - [ECON 441A HW2 I](https://tanner-woods.github.io/Personal_Projects/Miscellaneous/Miscellaneous_Files/ECON 441A HW2 A.html)

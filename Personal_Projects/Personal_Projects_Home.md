@@ -2,14 +2,14 @@
 
 ## Current Working Projects and Reports
 
-| *Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity II*|
+| *Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity II*| [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf) |
 | **Description**: Augment measurements constructed in Part I to challenge inter-dimensionality comparison problem and replace dimensionless comparitive methods.|
 | **Conclusion**: In progress.|
 | **Code**: In progress.|
 
 ## Econometrics and Finance
 
-| *Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity I*|
+| *Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity I*| [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf) |
 
 | **Description**: 
 Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training.\

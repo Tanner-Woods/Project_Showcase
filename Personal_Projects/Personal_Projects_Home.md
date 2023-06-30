@@ -1,4 +1,4 @@
-# Personal Project Archive (Always WIP)
+# Personal Project Archive (∞ WIP)
 
 ## Current Working Projects and Reports
 

@@ -17,8 +17,7 @@
 
 **Description**:
 
-|
-Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training. |
+|Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training. |
 Applied high-dimensional outlier detection methods without pre-clustering steps (iForest, ECOD, COPOD) to produce global measures of outlierness that avoid the recursive subspace-neighborhood search problem. |
 Constructed general and annualized locality-boosted global outlierness metric with composited Spearman’s rank correlation coefficients of additive/multiplicative global-to-local and intra-local outlierness. |
 

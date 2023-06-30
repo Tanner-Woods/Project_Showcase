@@ -2,9 +2,15 @@
 
 ## Current Working Projects and Reports
 
-| Determining Erroneous Data Entry for Tax-Exempt IRS Form 990 Organizations |
+| Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity II|
 
 ## Econometrics and Finance
+
+| Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity I|
+
+| **Description**: |
+| **Conclusion**: |
+| **Code**: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/)|
 
 | Complementary vs. Substitution Effects of Uber on Public Transit Consumption | [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Complementary Effects of Uber on Public Transit.html) | 
 

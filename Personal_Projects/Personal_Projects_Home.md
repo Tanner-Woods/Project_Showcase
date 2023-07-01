@@ -2,24 +2,24 @@
 
 ## Current Working Projects and Reports
 
-| Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity II| [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf) |
-
-| **Description**: Augment measurements constructed in Part I to challenge inter-dimensionality comparison problem and replace dimensionless comparitive methods.|
-
-| **Conclusion**: In progress.|
-
-| **Code**: In progress.|
+|<ul>Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity II</ul>|
+|*Description*: Augment measurements constructed in Part I to confront inter-dimensionality comparison problem and replace dimensionless comparitive methods.|
+|*Conclusion*: In progress.|
+|*Report*: In progress.|
+| *Code**: In progress.|
 
 
 ## Econometrics and Finance
 
-| Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity I| [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf) |
+|<ul>Anomaly Analysis in Tax-Exempt Non-Profit Organization Filings: Applying Unsupervised Learning Method Ensembles on 2013-2021 IRS Form 990s to Perform Outlier Detection as a Measure of Anomalous Activity I</ul>|
 
 |*Description*:|
-|Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training. |
-Applied high-dimensional outlier detection methods without pre-clustering steps (iForest, ECOD, COPOD) to produce global measures of outlierness that avoid the recursive subspace-neighborhood search problem. |
-Constructed general and annualized locality-boosted global outlierness metric with composited Spearman’s rank correlation coefficients of additive/multiplicative global-to-local and intra-local outlierness. |
+|Provides cursory survey of problems presented by analysis on data spaces of very high dimensionality.|
+Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training.|
+Applied high-dimensional outlier detection methods without pre-clustering steps (iForest, ECOD, COPOD) to produce global measures of outlierness that avoid the recursive subspace-neighborhood search problem.|
+Constructed general and annualized locality-boosted global outlierness metric with composited Spearman’s rank correlation coefficients of additive/multiplicative global-to-local and intra-local outlierness.|
 |*Conclusion*:|
+|*Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf)|
 |*Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/)|
 
 
@@ -31,6 +31,7 @@ Final determination from authors states that Uber is a complement for public tra
 |*Conclusion*:| 
 |Unsuccesful reproduction of study results in 2/4 regressions implementing DoubleOLS; produced small to moderate negative marginal effects on public transit usage.|
 |Second DoubleOLS regression produced an outsized positive marginal effect approximately 32.85% greater than the study's, while third relevant DoubleOLS controlling for trips above median produced positive marginal effect approximately 0.6281% smaller than the study's.|
+|*Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf)|
 | *Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Complementary Effects of Uber on Public Transit.html)|
 
 | Is There Evidence for Deadweight Profit Loss in the Warehousing Industry Due to Working Conditions? | [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Deadweight Loss in the Warehousing Industry Due to Working Conditions.pdf) |

@@ -24,7 +24,7 @@ Constructed general and annualized locality-boosted global outlierness metric wi
 
 
 |<u>Complementary vs. Substitution Effects of Uber on Public Transit Consumption</u>| 
-| *Description**:|
+| *Description*:|
 |Attempt at reproducing results derived from "Is Uber a substitute or complement for public transit?" from Hall, Palsson, and Price through several traditional regression methods.|
 Final determination from authors states that Uber is a complement for public transit ridership: mean ridership increases by approximately 5% after two years. |
 |*Conclusion*:| 

@@ -1,4 +1,4 @@
-# Project Showcase
+# Professional Showcase
 
 ## Welcome to all prospective viewers!
 

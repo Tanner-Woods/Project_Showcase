@@ -11,7 +11,7 @@ Also to the left is a personal project of mine: a long list of statistical analy
 ## Education
 **University of California, Los Angeles** <br>
 *Master of Arts in Quantitative Economics* (June 2023) <br>
-GPA: 3.62 [^2].
+GPA: 3.62 [^2]
 
 [^2]: Unfortunately, a series of family emergencies produced an intensely underwhelming first quarter performance. If first attempt grades are considered to not be overwritten by retaken classes, then my graduate GPA is 3.34.
 

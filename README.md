@@ -13,7 +13,7 @@ Also to the left is a personal project of mine: a long list of statistical analy
 *Master of Arts Quantitative Economics* (June 2023) <br>
 GPA: 3.62 [^2].
 
-[^2]: Unfortunately, a series of family emergencies produced an intensely underwhelming first quarter performance. If first-attempt grades are considered to not be overwritten by retaken classes, then my graduate GPA is 3.34.
+[^2]: Unfortunately, a series of family emergencies produced an intensely underwhelming first quarter performance. If first attempt grades are considered to not be overwritten by retaken classes, then my graduate GPA is 3.34.
 
 **University of California, Santa Barbara** <br>
 *Bachelor of Arts in Economics* (June 2021) <br>

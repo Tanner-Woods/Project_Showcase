@@ -23,7 +23,7 @@ Constructed general and annualized locality-boosted global outlierness metric wi
 |*Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/)|
 
 
-|<u>Complementary vs. Substitution Effects of Uber on Public Transit Consumption*</u>| 
+|<u>Complementary vs. Substitution Effects of Uber on Public Transit Consumption</u>| 
 | *Description**:|
 |Attempt at reproducing results derived from "Is Uber a substitute or complement for public transit?" from Hall, Palsson, and Price through several traditional regression methods.|
 Final determination from authors states that Uber is a complement for public transit ridership: mean ridership increases by approximately 5% after two years. |
@@ -34,13 +34,14 @@ Final determination from authors states that Uber is a complement for public tra
 |*Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Complementary Effects of Uber on Public Transit.html)|
 | *Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Complementary Effects of Uber on Public Transit.html)|
 
-|<u>Is There Evidence for Deadweight Profit Loss in the Warehousing Industry Due to Working Conditions? | [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Deadweight Loss in the Warehousing Industry Due to Working Conditions.pdf)</u>|
+|<u>Is There Evidence for Deadweight Profit Loss in the Warehousing Industry Due to Working Conditions?</u>|
 | *Description*: |
 | Major media stories report the prescence of poor working conditions in the warehousing industry, as well as high rates of employee turnover. By constructing an approximate per worker valuation of productivity through per worker share of Amazon's net annual net income, we hope to estimate potential sources of their profit loss.|
 | *Conclusion*: |
 |Model 3 produced statistically significant estimates of approximately -$5,516 (2.5%) and $1,619 (1%) for marginal median days missed and mean weekly hours of work, while possessing an approximate R-Squared of 0.793.|
 |Model 4 produced statistically significant estimates of approximately -$7,235 (1%) and $2,173 (1%) for marginal total incidents and median days missed , while possessing an approximate R-Squared of 0.721. |
 |Model 5 produced several highly statisticall signficant results, but estimated coefficients are highly outsized and should likely be disregarded.|
+| *Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Deadweight Loss in the Warehousing Industry Due to Working Conditions.pdf)|
 | *Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Deadweight Loss in the Warehousing Industry Due to Working Conditions.html)|
 
 |<u>Constructing Trading Strategies for a USD/GBP Portfolio: Implementing Methods of Difference on Comparative National Inflation, Unemployment, and Central Bank Interest Rates to Construct a Profitable Market Profile</u>|

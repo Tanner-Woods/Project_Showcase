@@ -9,10 +9,10 @@ I try to host all (non-sensitive) past and current projects here[^1]. If anythin
 Also to the left is a personal project of mine: a long list of statistical analytic resources to help those that also struggle with the conceptual side of mathematical theory. I've collected links for the textbooks I've used throughout my graduate program at UCLA for download; I heavily indebted myself to the UC system to find out about them, but that doesn't mean you have to, too. There is also a small collection of study guides I've made for a few of my classes.
 
 ## Education
-**University of California, Los Angeles**
+**University of California, Los Angeles** <br>
 *Master of Quantitative Economics* (June 2023)
 
-**University of California, Santa Barbara**
+**University of California, Santa Barbara** <br>
 *Bachelor of Arts in Economics* (June 2021)
 
 ## Work Experience

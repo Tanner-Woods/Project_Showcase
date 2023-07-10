@@ -32,8 +32,8 @@ Dates: 2014-2020
 
 For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you.
 
-- Statistical Analysis: Linear and non-linear regression and classification, bootstrapping, cross-validation, support vector machines, linear and quadratic discriminant analysis, parameter regularization methods, parametric and nonparametric estimation, and causal inference.
-- Machine Learning: Prepackaged (Scikit-learn, Keras, etc.) and bespoke supervised/unsupervised learning methods for estimation, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction.
-- Programming Languages: Python, R, MySQL, STATA
-- Software: Tableau, Git/Github, PowerBI, Excel, AWS
+- **Statistical Analysis**: Linear and non-linear regression and classification, bootstrapping, cross-validation, support vector machines, linear and quadratic discriminant analysis, parameter regularization methods, parametric and nonparametric estimation, and causal inference.
+- **Machine Learning**: Prepackaged (Scikit-learn, Keras, etc.) and bespoke supervised/unsupervised learning methods for estimation, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction.
+- **Programming Languages**: Python, R, MySQL, STATA
+- **Software**: Tableau, Git/Github, PowerBI, Excel, AWS
 

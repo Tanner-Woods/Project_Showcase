@@ -6,7 +6,7 @@
 |*Description*: Augment measurements constructed in Part I to confront inter-dimensionality comparison problem and replace dimensionless comparitive methods.|
 |*Conclusion*: In progress.|
 |*Report*: In progress.|
-| *Code**: In progress.|
+| *Code*: In progress.|
 
 
 ## Econometrics and Finance

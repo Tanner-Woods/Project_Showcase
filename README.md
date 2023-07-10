@@ -10,16 +10,13 @@ Also to the left is a personal project of mine: a long list of statistical analy
 
 ## Education
 **University of California, Los Angeles**
-
 *Master of Quantitative Economics* (June 2023)
 
 **University of California, Santa Barbara**
-
 *Bachelor of Arts in Economics* (June 2021)
 
 ## Work Experience
 **California State Legislature, 77th Assembly Office** (Summer 2020/2021)
-
 Student Intern, Constituent Caseworker
 
 - Coordinated with external agencies and state legislative offices to improve possibilities of favorable closure

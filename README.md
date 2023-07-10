@@ -16,14 +16,17 @@ Also to the left is a personal project of mine: a long list of statistical analy
 *Bachelor of Arts in Economics* (June 2021)
 
 ## Work Experience
-**California State Legislature, 77th Assembly Office** (Summer 2020/2021)
-Student Intern, Constituent Caseworker
+**California State Legislature, 77th Assembly Office** <br>
+Titles: Student Intern, Constituent Caseworker <br> 
+Dates: Summer 2020/2021
 
 - Coordinated with external agencies and state legislative offices to improve possibilities of favorable closure
 - Held and processed 30-40% of office casework on average in a six-person team in Summer 2021.
 - Performed the most casework out of all interns in program records by end of Summer 2020.
 
-**Companion Care Veterinary Hospital** (2014-2020)
+**Companion Care Veterinary Hospital** <br>
+Titles: Various <br> 
+Dates: 2014-2020
 
 ## Skills
 

@@ -22,7 +22,6 @@ Constructed general and annualized locality-boosted global outlierness metric wi
 |*Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/Capstone I.pdf)|
 |*Code*: [Link](https://tanner-woods.github.io/Personal_Projects/Econometrics_and_Finance/)|
 
-
 |<u>Complementary vs. Substitution Effects of Uber on Public Transit Consumption</u>| 
 | *Description*:|
 |Attempt at reproducing results derived from "Is Uber a substitute or complement for public transit?" from Hall, Palsson, and Price through several traditional regression methods.|
@@ -56,7 +55,7 @@ Final determination from authors states that Uber is a complement for public tra
 | *Description*: |
 | *Conclusion*: |
 | *Report*: [Link](https://tanner-woods.github.io/Personal_Projects/Macroeconomic_Theory_and_Analysis/Hungarian Macroeconomic Analysis and Forecasting.pdf)|
-| *Code**: N/A |
+| *Code*: N/A |
 
 ## Machine Learning
 

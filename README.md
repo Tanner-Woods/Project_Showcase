@@ -19,27 +19,46 @@ GPA: 3.62 [^2]
 *Bachelor of Arts in Economics* (June 2021) <br>
 GPA: 3.64
 
+
+## Skills
+
+For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you.
+
+**Machine learning**: Prepackaged and bespoke supervised/unsupervised learning methods for estimation, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction. <br>
+
+**Statistical analysis**: Linear/non-linear regression and classification, bootstrapping, validation, parametric/nonparametric estimation , time series analysis, linear/quadratic discriminant analysis, parameter regularization methods, and causal inference. <br>
+
+**Programming languages**: Python, R, and SQL (MySQL, PostgreSQL). <br>
+
+**Software**: STATA, Tableau, PowerBI , PowerBI, AWS, and Microsoft 365 suite (Excel, Word, etc.). <br>
+
+## Project History
+
+Constructing an Unsupervised Learning Ensemble for Outlier Detection in Activity of IRS Form 990 Organizations
+- Implemented bootstrapping-by-dimensionality/feature bagging to characterize the CLT-homogenized full data space by its constituent subspaces, avoid the combinatorial explosion effect, and mitigate knowledge bias effect in training.
+- Applied high-dimensional outlier detection methods without pre-clustering steps (iForest, ECOD, COPOD) to produce global measures of outlierness that avoid the recursive subspace-neighborhood search problem.
+- Built locality-boosted global outlierness metric from the composited nonparametric Spearman’s rank correlation coefficients of additive/multiplicative global-to-local and intra-local outlierness.
+
+Forecasting the Logarithmic Fraction of Outstanding Shares Under Competing Supervised Learning Models
+- Most optimal model by testing performance determined as the autoregressive model with multilayer perceptron tuning at an R-squared of 0.4623 and RMSE of 0.1720; comfortably exceeded typical industry threshold of ~70% .
+- Implemented hyperparameter-tunable models for autoregression with elastic net regularization and multilayer perceptrons, random forest with AdaBoost/XGBoost, and LSTM learning. 
+- Constructed bespoke temporally aware cross-validation method appropriate for time-series data spaces.
+
+Constructing a Predictive Model for Quota Fulfillment in Textile Workers
+- Compared competing neural network, classic non-parametric estimation (k-NN), supervised support vector machine, and logit models to determine whether a given factory cohort would meet their quota.
+- Concluded that a supervised SVM model with grid-search cross-validation produced the most optimal predictions at approximately 97% accuracy and recall.
+- Corrected unbalanced classes via SMOTE and ADASYN resampling techniques.
+
+Note: A selection of additional projects can be found within the “Personal Project Archive” section.
+
 ## Work Experience
 **California State Legislature, 77th Assembly Office** <br>
 Titles: Student Intern, Constituent Caseworker. <br> 
 Dates: Summer 2020/2021.
 
-- Coordinated with external agencies and state legislative offices to improve possibilities of favorable closure
 - Held and processed 30-40% of office casework on average in a six-person team in Summer 2021.
 - Performed the most casework out of all interns in program records by end of Summer 2020.
 
 **Companion Care Veterinary Hospital** <br>
 Titles: Various. <br> 
 Dates: 2014-2020.
-
-## Skills
-
-For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you.
-
-**Statistical Analysis**: Linear and non-linear regression and classification, bootstrapping, cross-validation, support vector machines, linear and quadratic discriminant analysis, parameter regularization methods, parametric and nonparametric estimation, and causal inference. <br>
-
-**Machine Learning**: Prepackaged (Scikit-learn, Keras, etc.) and bespoke supervised/unsupervised learning methods for estimation, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction. <br>
-
-**Programming Languages**: Python, R, MySQL, and STATA. <br>
-
-**Software**: Tableau, Git/Github, PowerBI, Excel, and AWS. <br>

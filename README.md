@@ -19,6 +19,18 @@ GPA: 3.62 [^2]
 *Bachelor of Arts in Economics* (June 2021) <br>
 GPA: 3.64
 
+## Work Experience
+
+**Companion Care Veterinary Hospital, Statisical Analytics Division**
+Title: Data Analyst. <br>
+Type: Freelance.
+Dates: June 2023 - Present.
+
+- Synthesized datasets from multiple SaaS services into a single normalized relational database.
+- ...
+- ...
+
+Note: This is a recent position. Please refer back later for further achievements.
 
 ## Skills
 
@@ -51,14 +63,16 @@ Constructing a Predictive Model for Quota Fulfillment in Textile Workers
 
 Note: A selection of additional projects can be found within the “Personal Project Archive” section.
 
-## Work Experience
+## Past (and Probably Not Relevant) Work Experience
 **California State Legislature, 77th Assembly Office** <br>
-Titles: Student Intern, Constituent Caseworker. <br> 
+Title: Student Intern, Constituent Caseworker. <br>
+Type: Full-time. <br>
 Dates: Summer 2020/2021.
 
 - Held and processed 30-40% of office casework on average in a six-person team in Summer 2021.
 - Performed the most casework out of all interns in program records by end of Summer 2020.
 
 **Companion Care Veterinary Hospital** <br>
-Titles: Various. <br> 
+Titles: Various. <br>
+Type: Full-time. <br>
 Dates: 2014-2020.

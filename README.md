@@ -11,9 +11,7 @@ Also to the left is a personal project of mine: a long list of statistical analy
 ## Education
 **University of California, Los Angeles** <br>
 *Master of Arts in Quantitative Economics* (June 2023) <br>
-GPA: 3.62 [^2]
-
-[^2]: Unfortunately, a series of family emergencies produced an intensely underwhelming first quarter performance. If first attempt grades are considered to not be overwritten by retaken classes, then my graduate GPA is 3.34.
+GPA: 3.62
 
 **University of California, Santa Barbara** <br>
 *Bachelor of Arts in Economics* (June 2021) <br>
@@ -21,14 +19,14 @@ GPA: 3.64
 
 ## Work Experience
 
-**Companion Care Veterinary Hospital, Statisical Analytics Division**
+**Companion Care Veterinary Hospital**
 Title: Data Analyst. <br>
 Type: Freelance.
 Dates: June 2023 - Present.
 
-- Synthesized datasets from multiple SaaS services into a single normalized relational database.
-- ...
-- ...
+- Migrated SQL database from 2014 to 2022 SQL Server and extracted econometrically influential parameters over 254,000 distinct service items for estimates of optimal fee structure and reminder frequency-to-revenue.
+- Exported regularized records covering millions in revenue from 15 years of accepted services into Pandas DataFrame, then constructed additional parameters to tighten estimates intervals for future price adjustments.
+- Provide ad hoc reports for review and collect supplementary field data (e.g. Time-to-completion for tasks, identity of poorly-documented pre-migration records, abnormal clientele backgrounds, etc.) from client.
 
 Note: This is a recent position. Please refer back later for further achievements.
 

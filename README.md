@@ -19,14 +19,15 @@ GPA: 3.64
 
 ## Work Experience
 
-**Companion Care Veterinary Hospital**
-Title: Data Analyst. <br>
-Type: Freelance.
+**Companion Care Veterinary Hospital** <br>
+Title: Data Scientist. <br>
+Type: Freelance/Contracted.
 Dates: June 2023 - Present.
 
 - Migrated SQL database from 2014 to 2022 SQL Server and extracted econometrically influential parameters over 254,000 distinct service items for estimates of optimal fee structure and reminder frequency-to-revenue.
-- Exported regularized records covering millions in revenue from 15 years of accepted services into Pandas DataFrame, then constructed additional parameters to tighten estimates intervals for future price adjustments.
+- Estimated statistically significant revenue-contributing items via weighted composite of three-part cross-validated filtering, embedding, and algorithmic ensembles; implemented double OLS to produce a rough baseline.
 - Provide ad hoc reports for review and collect supplementary field data (e.g. Time-to-completion for tasks, identity of poorly-documented pre-migration records, abnormal clientele backgrounds, etc.) from client.
+
 
 Note: This is a recent position. Please refer back later for further achievements.
 

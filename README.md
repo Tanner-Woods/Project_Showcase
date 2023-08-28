@@ -17,7 +17,7 @@ GPA: 3.62
 *Bachelor of Arts in Economics* (June 2021) <br>
 GPA: 3.64
 
-## Work Experience
+## Professional History
 
 **Companion Care Veterinary Hospital** <br>
 Title: Data Scientist. <br>
@@ -30,18 +30,6 @@ Dates: June 2023 - Present.
 
 
 Note: This is a recent position. Please refer back later for further achievements.
-
-## Skills
-
-For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you.
-
-**Machine learning**: Prepackaged and bespoke supervised/unsupervised learning methods for estimation, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction. <br>
-
-**Statistical analysis**: Linear/non-linear regression and classification, bootstrapping, validation, parametric/nonparametric estimation , time series analysis, linear/quadratic discriminant analysis, parameter regularization methods, and causal inference. <br>
-
-**Programming languages**: Python, R, and SQL (MySQL, PostgreSQL). <br>
-
-**Software**: STATA, Tableau, PowerBI , PowerBI, AWS, and Microsoft 365 suite (Excel, Word, etc.). <br>
 
 ## Project History
 
@@ -57,12 +45,26 @@ Forecasting the Logarithmic Fraction of Outstanding Shares Under Competing Super
 
 Constructing a Predictive Model for Quota Fulfillment in Textile Workers
 - Compared competing neural network, classic non-parametric estimation (k-NN), supervised support vector machine, and logit models to determine whether a given factory cohort would meet their quota.
-- Concluded that a supervised SVM model with grid-search cross-validation produced the most optimal predictions at approximately 97% accuracy and recall.
+- Concluded that a supervised SVM model with grid-search cross-validation produced the most optimal predictions at approximately 97% accuracy and recall[^2].
 - Corrected unbalanced classes via SMOTE and ADASYN resampling techniques.
+
+[^2]: I take this accuracy and recall with a grain of salt given the (unknown to me at the time) detriments of resampling techniques. Still an incredibly enlightening and fun project in terms of statistical methods implemented!
 
 Note: A selection of additional projects can be found within the “Personal Project Archive” section.
 
-## Past (and Probably Not Relevant) Work Experience
+## Skills
+
+For a more technical and exhaustive insight, I encourage anyone curious to look through my projects portfolio on the left. You can also take them after looking, too! I literally can't stop you. <br>
+
+**Machine learning**: Prepackaged/bespoke methods for supervised/unsupervised learning, classification, dimensionality reduction, matrix completion, Euclidean/non-Euclidean clustering, survival/censored analysis, and conformal prediction. <br>
+
+**Statistical analysis**: Linear/non-linear regression and classification, bootstrapping, validation, parametric/nonparametric estimation, time series analysis, linear/quadratic discriminant analysis, parameter regularization methods, and causal inference. <br>
+
+**Statistical programming**: Python (Pands, Numpy, Scikit, Keras, etc.), R, and SQL (MySQL, PostgreSQL). <br>
+
+**Software**: Tableau, PowerBI, T-SQL/MSSQL, and AWS. <br>
+
+## Past (and Probably Not Relevant, Sadly) Work Experience
 **California State Legislature, 77th Assembly Office** <br>
 Title: Student Intern, Constituent Caseworker. <br>
 Type: Full-time. <br>
